@@ -58,5 +58,4 @@ This dashboard helps identify key patterns in employee attrition and supports HR
 ---
 
 ## 🙌 Connect with Me
-- LinkedIn: https://your-linkedin-link  
-- GitHub: https://github.com/yourusername  
+- LinkedIn: [https://your-linkedin-link ](https://www.linkedin.com/in/shriraj-dharmadhikari-b9754a289/)   
