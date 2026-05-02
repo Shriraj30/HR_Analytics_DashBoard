@@ -33,15 +33,6 @@ This project focuses on analyzing employee data to identify key factors affectin
 ## 📄 Dashboard PDF
 👉 [https://drive.google.com/your-pdf-link](https://drive.google.com/file/d/1xTFaZfOmSdluJI-VqY-8CsOq3VhzeYg9/view?usp=drive_link)
 
----
-
-## 🔗 Live Dashboard
-👉 https://your-powerbi-link-here  
-
----
-
-## 🎥 Demo Video (Optional)
-👉 https://your-video-link  
 
 ---
 
